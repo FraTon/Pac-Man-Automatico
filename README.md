@@ -1,5 +1,5 @@
 # Pac-Man-Automatico
-Pacman Automatico implementato attraverso Prolog e JADE
+Pacman Automatico implementato attraverso Prolog e JADE.
 
 # Configurazione
 Per poter utilizzare SWI-Prolog e JADE in Eclipse, è stato necessario importare le loro librerie all'interno del progetto.
